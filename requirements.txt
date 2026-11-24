@@ -1,0 +1,14 @@
+streamlit>=1.50
+requests
+beautifulsoup4
+lxml
+pdfplumber
+pymupdf
+pytesseract
+pillow
+pandas
+openpyxl
+xlrd
+rapidfuzz
+psutil
+playwright
