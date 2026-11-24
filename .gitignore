@@ -1,0 +1,23 @@
+# ---- NEVER upload (secrets and personal data) ----
+config.json
+*.secret
+.env
+
+# ---- files the tool creates while running ----
+last_page.html
+last_company_page.html
+tool_log.txt
+*.log
+
+# ---- Python / editor ----
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+
+# ---- Windows ----
+Thumbs.db
+Desktop.ini
